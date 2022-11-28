@@ -1,0 +1,7 @@
+- nombre: compilación de Android
+
+  # Puede fijar la confirmación exacta o la versión.
+
+  # usos: vgaidarji/android-github-actions-build@0888eff41ad409a802aa4ccd7790a91891da9056
+
+  usos: vgaidarji/android-github-actions-build@v1.0.1
