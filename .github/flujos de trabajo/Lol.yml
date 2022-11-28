@@ -1,0 +1,4 @@
+- nombre: acciones-android-ci
+  # Puede fijar la confirmación exacta o la versión.
+  # usos: xdtianyu/actions-android-ci@8e1bc2c6eef01bcfd824652b7ffe410b1d1d2032
+  usos: xdtianyu/acciones-android-ci@v1.3.0
